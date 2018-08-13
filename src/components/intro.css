@@ -1,0 +1,38 @@
+.intro-div{
+    align-content: center;
+    text-align: center;
+    margin-top: 60px;
+    align-items: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+.my-name{
+    font-size: 25px;
+    color: #21242c;
+    font-weight: 700;
+    text-align:center;
+    margin-top: 20px;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+.about{
+    margin-top: 1px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #666666;
+    display: block;
+    letter-spacing: 1px;
+    line-height: 1.3;
+    font-family: 'Nunito', sans-serif;
+}
+
+.intro-div p {
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 600;
+    display: block;
+    max-width: 700px;
+    padding: 0 10px;
+    margin: 18px auto;
+} 
